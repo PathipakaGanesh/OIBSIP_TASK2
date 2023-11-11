@@ -1,0 +1,86 @@
+.bg-container {
+    background-color: black;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    font-family: "Bree";
+}
+
+.bg-img {
+    width: 50vw;
+}
+
+.bg-img-card {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bg-h1 {
+    color: black;
+    font-size: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+.bg-h {
+    color: white;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.icon {
+    color: white;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-h5 {
+    color: white;
+    font-size: 13px;
+}
+
+.bg-card {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-card5 {
+    text-align: center;
+    padding: 20px;
+}
+
+.bg-p {
+    color: white;
+    font-size: 10px;
+}
+
+.hr {
+    border-top: 2px solid #ddd;
+}
+
+.made-with {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.j {
+    text-decoration: underline;
+}
+
+.bg-h2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
